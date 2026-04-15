@@ -1,0 +1,20 @@
+﻿# API keys and secrets
+config/config.py
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Outputs
+outputs/*.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# Generated output files
+notebooks/*.json
+*.json
